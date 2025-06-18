@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "YouTube-Logo.wine.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "YouTube-White-Full-Color-Logo.wine.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
