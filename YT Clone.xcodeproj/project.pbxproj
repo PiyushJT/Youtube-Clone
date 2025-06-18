@@ -6,8 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		03BDEF4B2E02DBB100F7665A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 03BDEF4A2E02DBAC00F7665A /* README.md */; };
+		03BDEF572E02DBEE00F7665A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 03BDEF562E02DBE900F7665A /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		03BDEF2B2E0288E500F7665A /* YT Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YT Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		03BDEF4A2E02DBAC00F7665A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		03BDEF562E02DBE900F7665A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +39,8 @@
 		03BDEF222E0288E500F7665A = {
 			isa = PBXGroup;
 			children = (
+				03BDEF562E02DBE900F7665A /* .gitignore */,
+				03BDEF4A2E02DBAC00F7665A /* README.md */,
 				03BDEF2D2E0288E500F7665A /* YT Clone */,
 				03BDEF2C2E0288E500F7665A /* Products */,
 			);
@@ -109,6 +118,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03BDEF572E02DBEE00F7665A /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03BDEF4B2E02DBB100F7665A /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
